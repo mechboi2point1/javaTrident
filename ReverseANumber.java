@@ -14,7 +14,7 @@ public class ReverseANumber {
 	
 	public static void sumOfDigits(int a) {
 		
-		
+		System.out.println("h");
 	}
 	public static void table(int a) {
 		int mul=1;
@@ -23,6 +23,8 @@ public class ReverseANumber {
 		}
 		System.out.println(mul);
 	}
+	
+	
 	
 
 }
